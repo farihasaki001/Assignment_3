@@ -1,0 +1,48 @@
+/*.dhaka{
+	color: darkred; 
+	font-size: 400%;
+}
+.ps{
+	color: blue;
+	background-color: pink;
+	font-size: 300%;
+	text-align: center;;
+}*/
+.header{
+	min-height: 30px;
+
+}
+.wrapper{
+min-height: 1000px;
+background-color: orange;
+}
+.map{
+	width: 50%;
+	height: 400px;
+	float: left;
+	margin: 200px,200px,200px,200px;
+	padding: 20px,20px;
+
+	min-height: 500px;
+
+	
+	
+	
+
+}
+.youtube{
+	width:  50%;
+	height: 400px;
+	float: right;
+	margin: 200px,200px,200px,200px;
+	padding: 20px,20px;
+	min-height: 500px;
+
+
+}
+.footer{
+	background-color: yellow;
+	min-height: 30px;
+	margin: 200px,200px,200px,200px;
+	
+}
